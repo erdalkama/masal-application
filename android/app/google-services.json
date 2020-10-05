@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365053614935",
+    "firebase_url": "https://masal-application.firebaseio.com",
+    "project_id": "masal-application",
+    "storage_bucket": "masal-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365053614935:android:625dc4b96b13c46c4bfc12",
+        "android_client_info": {
+          "package_name": "com.stajodevi.masal_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365053614935-k1318eg1vn80d05k2438lausp55qu414.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT1Wh3dTtxz-DDRqPMffRxtN93H4ae4Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365053614935-k1318eg1vn80d05k2438lausp55qu414.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
