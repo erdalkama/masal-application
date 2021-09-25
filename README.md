@@ -1,4 +1,4 @@
-# masal_application
+# Masal Application
 
 Masal Application is an application I developed for my internship project.
 
