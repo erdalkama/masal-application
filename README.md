@@ -1,5 +1,7 @@
 # masal_application
 
+Masal Application is an application I developed for my internship project.
+
 https://play.google.com/store/apps/details?id=com.stajodevi.masal_application
 
 ![login](https://user-images.githubusercontent.com/34250103/134778419-f25648d8-1d08-4fee-a398-e208441d2053.png)
